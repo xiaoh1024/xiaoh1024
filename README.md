@@ -1,6 +1,6 @@
-中科大 2024 级本科生，喜欢 CG，C++ 和 CTF
+中科大 2024 级本科生，喜欢计算机图形学
 
-USTC 2024 undergraduate student, interested in **C**omputer Graphics, **C**++ and **C**TF
+USTC 2024 undergraduate student, interested in Computer Graphics
 
 [![My Skills](https://skillicons.dev/icons?i=windows,arch,clion,vscode,cpp,md,py,rust)](https://skillicons.dev)
 
